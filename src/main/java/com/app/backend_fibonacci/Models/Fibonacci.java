@@ -3,7 +3,6 @@ package com.app.backend_fibonacci.Models;
 import jakarta.persistence.*;
 
 import java.time.LocalTime;
-import java.util.Date;
 
 @Entity
 @Table(name="fibonacci")
